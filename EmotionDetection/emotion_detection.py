@@ -21,12 +21,5 @@ def emotion_detector(text_to_analyse):
         'dominant_emotion': dominant_emotion
     }
 
-# # Call the function
-# result = emotion_detector("I am so happy I am doing this")
 
-# print("Full result dictionary:")
-# print(result)
-
-# print("\nDominant emotion extracted from result:")
-# print(result.get('dominant_emotion'))
 
